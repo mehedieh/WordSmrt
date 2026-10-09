@@ -1,0 +1,6 @@
+{
+  "name": "WordSmrt",
+  "description": "Learn. Remember. Master. Premium bilingual English-Bangla vocabulary learning system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
